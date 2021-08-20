@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage </title>
+        <style>
+        h1{color:rgb(0,90,70);font:Monospace;
+        }
+           p {
+    color: rgb(199, 72, 199);
+} #summer{
+             background-color: yellow;
+         } 
+         .bob{
+             background:green;
+         }  
+         body {background:rgb(180, 237, 234);}
+
+            
+        </style>
+        
+        
+    </head>
+    <body>
+    
+        <h1>Travel to nature .....</h1>
+        <p><em> <strong> Before we get to the heart of our topic today, we must make it clear that tourism is just like coffee, each of us prefers it with a certain taste, and there is no flavor better than the other at all.
+        </strong> </em>.</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png" alt="Country in Europe" width="350" height="200">
+        <p><em>Today we will talk more about the flavor of natural tourism and about the destinations preferred by lovers of this type of travel and tourism.
+ </em></p>
+    <ul>
+       <li>Let's start from the continent of Asia, specifically from the most famous places at all:</li> 
+       <ol><br>
+           <li id="summer">the moldive Islands </li>
+           <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-with-palm-trees.png" alt="the moldive Islands " width="300" height="150">
+           <p><strong>The Maldives, which number approximately 1,200 islands collected in a double chain of 26 atolls in the Indian Ocean, which is also one of the most popular tourist areas in the world, despite being the smallest Asian country.<br><br>
+     More than 80% of the country's land is made up of atolls that rise less than one meter above sea level, spread on both sides of the equator, part of which lies within the Northern Hemisphere, while the other part is located in the Southern Hemisphere
+</strong></p>
+<li id="summer">Cappadocia / Turkey</li>
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/birds_rainbow-lorakeets.png" alt="Turkey " width="300" height="150">
+<p><strong>One of the famous destinations in Turkey, is a historical region in central Anatolia, .<br><br>The orc chimneys in Goreme are one of the most famous tourist areas in Cappadocia, and they are natural mountain chimneys that dot the village. Goreme includes ancient houses carved in stone and ancient churches, the most important of which are Tawakli Church and Apple Church, in addition to pigeon towers. Cappadocia includes a group of unique hotels in Turkey, mostly in the form of caves and houses carved in the rock.<br><br>One of the most famous activities in the region is ballooning, which will enable you, dear reader, to witness one of the most beautiful sunsets around the world..</strong></p>
+<li id="summer">El Nido Island/Philippines</li>
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-daytime.png" alt="El Nido Island " width="300" height="150">
+<p><strong>It consists of several islands, numbering about 45, located in the southeast of the Philippine capital, Manila, at the northern tip of the island of Palawan.<br><br>The island extends along the seashore and the buildings are designed in a rustic style to suit the nature of the place. Visitors to El Nido Island can practice all tourist and recreational activities on the island's beautiful beach, which is full of vitality and desire to enjoy the charm of the place. There are water sports such as windsurfing, paragliding, water jumping, diving and enjoying watching coral reefs and rare species of sea creatures. </strong></p>
+<li id="summer">Halong Bay / Vietnam</li>
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach.png" alt="El Nido Island " width="300" height="150">
+<p><strong>This bay is one of the most important nature attractions in Southeast Asia in addition to being one of the most beautiful places in Vietnam. Halong Bay is spread across a number of beautiful islands, amounting to 1969islands, as well as a group of amazing rock formations, including caves and wonderful rocky paths that are worth discovering, and perhaps a boat trip will allow you to discover more of these magical treasures that you always find Attracting tourists from all over the world, just keep your camera to take the most beautiful photographs of your trip.<br><br> Zhangjiajie National Forest Park, China<br>
+    China Forest National Park is the first UNESCO World Heritage Site in China, known for its towering sandstone pillars. It is preferable to explore it on foot for a unique experience, and when the clouds fall and at sunset, you will fully realize why this area was inspiring many traditional Chinese paintings.
+</strong></p>
+       </ol>
+        <li>Let's move to the brown continent and the treasure of the planet, specifically:<br><br></li>
+        <ol>
+           <li id="summer">Bwindi Forest, Uganda</li> 
+           <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-and-lake.png" alt="El Nido Island " width="300" height="150">
+           <p><strong>Bwindi Forest is one of the last strongholds of mountain gorillas threatened with extinction, as it is distinguished by its dense trees and is one of the places under UNESCO protection because it contains a huge biological diversity of living organisms, where more than 348 species of birds and 220 species of butterflies can be found within An area of ​​331 square kilometers.</strong></p>
+           <li id="summer">Jebel Toubkal / Morocco</li>
+           <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-in-hawaii.png" alt="El Nido Island " width="300" height="150">
+           <p><strong>The height of Mount Toubkal reached 4,167 meters, and for that reason it was called the “Roof of North Africa.” The visitor to this mountain goes through a unique experience, as the road to its summit winds through empty valleys, sacred shrines from the past, in addition to towering snow fields, and then reaches a series of high hills that give it amazing and unparalleled views across the Atlas Mountains. It is a peaceful world away from the noise of the nearby city of Marrakesh</strong></p>
+        </ol></ul>
+        
+        <p class="bob"><strong><em>Oh God, travel...<br><br>THE END.......<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/planet.png" alt="go" width="100"  > salsabeel alsmadi :)
+</em></strong></p>
+<p class="bob"> <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/rocketship.png" alt="salsabeel"></p>
+        
+    </body>
+</html>
